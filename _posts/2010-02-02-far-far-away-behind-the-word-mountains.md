@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://imagizer.imageshack.com/img924/5620/thHmvE.jpg
+  https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,w_4000/v1571048278/samples/animals/james-lee-ju7cYroJfts-unsplash_smxssv.jpg
 optimized_image: >-
-  https://imagizer.imageshack.com/img924/5620/thHmvE.jpg
+  https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,w_4000/v1571048278/samples/animals/james-lee-ju7cYroJfts-unsplash_smxssv.jpg
 category: travel
 tags:
   - mountains
