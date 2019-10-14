@@ -4,8 +4,8 @@ layout: post
 title: Passion is dangerous, go for it!
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050344/samples/animals/ivana-cajina-19MqG0yRIDc-unsplash_ssjtnb.jpg
-optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050344/samples/animals/ivana-cajina-19MqG0yRIDc-unsplash_ssjtnb.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050344/samples/animals/ivana-cajina-19MqG0yRIDc-unsplash_ssjtnb.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050344/samples/animals/ivana-cajina-19MqG0yRIDc-unsplash_ssjtnb.jpg
 category: work
 tags:
   - work
