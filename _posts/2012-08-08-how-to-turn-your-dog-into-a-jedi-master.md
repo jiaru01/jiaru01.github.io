@@ -4,8 +4,8 @@ layout: post
 title: How to turn your dog into a Jedi master
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049463/samples/animals/radek-grzybowski-1Wy14b6vSpA-unsplash_qydavg.jpg
-optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049463/samples/animals/radek-grzybowski-1Wy14b6vSpA-unsplash_qydavg.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049463/samples/animals/radek-grzybowski-1Wy14b6vSpA-unsplash_qydavg.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049463/samples/animals/radek-grzybowski-1Wy14b6vSpA-unsplash_qydavg.jpg
 category: tutorial
 tags:
   - jedi
