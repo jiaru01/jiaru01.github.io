@@ -4,8 +4,8 @@ layout: post
 title: A star has fallen from the sky and the cat ate it
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049779/samples/animals/nick-karvounis-XGh3GYU1wTg-unsplash_q3853j.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049779/samples/animals/nick-karvounis-XGh3GYU1wTg-unsplash_q3853j.jpg
 category: music
 tags:
   - crazy
