@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-   https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
+   https://imagizer.imageshack.com/img923/2003/6EAodM.jpg
 optimized_image: >-
-   https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
+   https://imagizer.imageshack.com/img923/2003/6EAodM.jpg
 category: blog
 tags:
   - welcome
