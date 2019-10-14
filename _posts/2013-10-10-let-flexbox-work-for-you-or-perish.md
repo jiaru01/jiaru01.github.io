@@ -4,8 +4,8 @@ layout: post
 title: Let flexbox work for you or perish
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049780/samples/animals/nathan-lemon-pd4iy18AhtI-unsplash_opkvnt.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049780/samples/animals/nathan-lemon-pd4iy18AhtI-unsplash_opkvnt.jpg
 category: css
 tags:
   - css
