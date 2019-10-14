@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://picsum.photos/id/433/2000/1500
+  https://picsum.photos/id/433/2000/1500?grayscale
 optimized_image: >-
-   https://picsum.photos/id/433/2000/1500
+   https://picsum.photos/id/433/2000/1500?grayscale
 category: blog
 tags:
   - welcome
