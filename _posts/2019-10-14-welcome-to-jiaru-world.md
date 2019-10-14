@@ -17,7 +17,7 @@ tags:
 author: Jiaru
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+如果您收到了两个职位的笔试邀请信，请任选一个作答，请不要两个都作答，如重复作答会影响笔试成绩，请慎重选择试卷作答！如果只收到一个职位邀请信的同学，请忽略此信息。
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
