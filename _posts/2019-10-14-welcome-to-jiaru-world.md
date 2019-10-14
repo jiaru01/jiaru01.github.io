@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
+https://picsum.photos/id/433/2000/1500
 optimized_image: >-
    https://picsum.photos/id/433/2000/1500
 category: blog
