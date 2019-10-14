@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dkquzc8ob/image/upload/v1571047753/samples/animals/samuel-scrimshaw-KeUKM5N-e_g-unsplash_al0las.jpg
+  https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571047753/samples/animals/samuel-scrimshaw-KeUKM5N-e_g-unsplash_al0las.jpg
 optimized_image: >-
-   https://res.cloudinary.com/dkquzc8ob/image/upload/v1571047753/samples/animals/samuel-scrimshaw-KeUKM5N-e_g-unsplash_al0las.jpg
+   https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571047753/samples/animals/samuel-scrimshaw-KeUKM5N-e_g-unsplash_al0las.jpg
 category: blog
 tags:
   - welcome
