@@ -6,7 +6,8 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
+image: >-
+  https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
 optimized_image: >-
   https://imagizer.imageshack.com/img924/3107/1rrsms.jpg
 category: travel
