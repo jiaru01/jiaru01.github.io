@@ -4,8 +4,8 @@ layout: post
 title: Candy, candies, candy!
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049222/samples/animals/levi-saunders-NUMlxTPsznM-unsplash_ukfacv.jpg
-optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049222/samples/animals/levi-saunders-NUMlxTPsznM-unsplash_ukfacv.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049222/samples/animals/levi-saunders-NUMlxTPsznM-unsplash_ukfacv.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049222/samples/animals/levi-saunders-NUMlxTPsznM-unsplash_ukfacv.jpg
 category: diet
 tags:
   - food
