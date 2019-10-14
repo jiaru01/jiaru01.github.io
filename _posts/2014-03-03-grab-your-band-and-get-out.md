@@ -4,8 +4,8 @@ layout: post
 title: Grab your band and get out
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050344/samples/animals/than-malar-selvan-17FcdBbY00M-unsplash_nycpfc.jpg
-optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050344/samples/animals/than-malar-selvan-17FcdBbY00M-unsplash_nycpfc.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050344/samples/animals/than-malar-selvan-17FcdBbY00M-unsplash_nycpfc.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050344/samples/animals/than-malar-selvan-17FcdBbY00M-unsplash_nycpfc.jpg
 category: music
 tags:
   - music
