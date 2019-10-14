@@ -4,8 +4,8 @@ layout: post
 title: A cook cries in the rain at night
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050343/samples/animals/charlie-marusiak-34_yVm7ZWhw-unsplash_aqzswh.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571050343/samples/animals/charlie-marusiak-34_yVm7ZWhw-unsplash_aqzswh.jpg
 category: diet
 tags:
   - cook
