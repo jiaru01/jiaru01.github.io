@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-https://i.ibb.co/82GzzrY/nasa-r-TZW4f02z-Y8-unsplash
+ https://picsum.photos/id/433/2000/1500
 optimized_image: >-
    https://picsum.photos/id/433/2000/1500
 category: blog
