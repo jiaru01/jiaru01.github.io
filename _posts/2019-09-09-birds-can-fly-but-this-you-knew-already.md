@@ -5,7 +5,7 @@ title: Birds can fly, but this you knew already
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050346/samples/animals/joren-aranas-b2PEDKfnyfY-unsplash_jyrnzv.jpg
-optimized_image:https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050346/samples/animals/joren-aranas-b2PEDKfnyfY-unsplash_jyrnzv.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571050346/samples/animals/joren-aranas-b2PEDKfnyfY-unsplash_jyrnzv.jpg
 category: life
 tags:
   - life
