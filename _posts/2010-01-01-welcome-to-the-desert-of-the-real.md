@@ -1,8 +1,8 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2019-10-13 23:48:05
 layout: post
 title: 这里是何佳儒的世界
-subtitle: Know more of me, explore more of the world.
+subtitle: 仙人抚我顶，结发共长生
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
