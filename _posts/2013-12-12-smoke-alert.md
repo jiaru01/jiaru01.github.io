@@ -3,8 +3,8 @@ date: 2017-07-29 13:24:49
 layout: post
 title: Smoke alert
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049776/samples/animals/matthew-kosloski-sYkr-M78H6w-unsplash_oojphr.jpg
-optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_3000,w_4000/v1571049776/samples/animals/matthew-kosloski-sYkr-M78H6w-unsplash_oojphr.jpg
+image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049776/samples/animals/matthew-kosloski-sYkr-M78H6w-unsplash_oojphr.jpg
+optimized_image: https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571049776/samples/animals/matthew-kosloski-sYkr-M78H6w-unsplash_oojphr.jpg
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: 'blog'
 tags:
