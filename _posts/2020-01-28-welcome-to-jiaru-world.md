@@ -1,11 +1,10 @@
 ---
-date: 2019-10-13 23:48:05
+date: 2020-01-28 23:48:05
 layout: post
 title: 这里是何佳儒的世界
-subtitle: 仙人抚我顶，结发共长生
+subtitle: 仙人抚我顶，结发受长生
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  这是一个总结自己所思所悟的地方，不定时更新。
 image: >-
   https://res.cloudinary.com/dkquzc8ob/image/upload/c_scale,h_2472,w_4000/v1571047753/samples/animals/samuel-scrimshaw-KeUKM5N-e_g-unsplash_al0las.jpg
 optimized_image: >-
@@ -13,7 +12,6 @@ optimized_image: >-
 category: blog
 tags:
   - welcome
-  - blog
 author: Jiaru
 paginate: true
 ---
