@@ -10,9 +10,17 @@ menu: true
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+我是个惜命的人儿,总是盼着自己能够长寿,哪怕是房间装饰的植物也希望是
+长景天科的十字海棠,民间叫长寿花,如此并不为别的,只是希望偶遇这世间的光怪
+陆离罢了,为此总盼着自己在未来的某日开一间唤作‘草萤’的驻店,迎过往的人畜
+鬼怪落脚,更准确的来说是迎众生之事,天下之闻,之所以取名‘草萤’,可能是出
+于对‘腐草为萤’这一词的偏爱吧,多么浪漫,迷幻的词语啊,至于驻店的装修风格,
+就按照兰若寺或更古朴的样子来弄,地点就设在某处不知名的山中,所谓只缘身在此
+山中,或许这样的偶遇才值得期待。
+作为未来驻店的男主人,我也给自己取了个名号叫‘看鸟人’。老话说的好,
+“林子大了,什么鸟都有”,偌大的林子,看鸟的人总喜欢盯着稀奇古怪的鸟看,私
+以为是高雅的趣味,恨不得有生之年能见到扶摇直上的鲲鹏,或是传说中的雷震子,
+至少在他们眼中,会飞的都是鸟,尖嘴的都是禽。鸟儿们也不甘寂寞,整日叽叽喳喳,
+嘲笑着没有羽毛的肉团子甘于凡俗。总之换位思考,无论是看鸟人还是鸟,在双方的
+眼里,对方都是鸟,自己都是看鸟的“人”,这正是我取名‘看鸟人’的原因,总比
+‘鸟人’来的顺耳些。
